@@ -1,3 +1,6 @@
+'''
+Write a python program to check wheather a number is Amstrong number or not
+'''
 def factorial(num):
     if num == 0:
         return 1
